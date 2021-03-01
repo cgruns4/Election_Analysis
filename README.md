@@ -36,4 +36,7 @@ The analysis of the election show that:
     - Candidate Diana DeGette, who received 73.8% of the vote and 272,892 number of votes
 
 ## Election Audit Summary
-    The code created for this analysis could be used as a template for analyzing any other election, with just some slight modifications.  
+   The code created for this analysis could be used as a template for analyzing any other election, 
+   with just some slight modifications.  It would be necessary to link the code to the the datafile of the next election for analysis,
+   and the code would need some slight adjusting if the new election data file is not stored in the exact same format (ballot id, county, candidate). 
+   Additionally, in order to use this script for a broader, country-wide election, there would be the need to change logic to pull data at the state level.  
