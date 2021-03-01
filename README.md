@@ -22,6 +22,9 @@ The analysis of the election show that:
     - Arapahoe: 6.7% (total county votes were: 24,801)
     - Denver recorded the largest number of votes
 
+![ElectionText](https://user-images.githubusercontent.com/71041680/109440903-ba0e7e00-7a01-11eb-8b8f-3afa96a3ee29.png)
+
+
 - The candidates were:
     - Charles Casper Stockham
     - Diana DeGette
@@ -39,4 +42,11 @@ The analysis of the election show that:
    The code created for this analysis could be used as a template for analyzing any other election, 
    with just some slight modifications.  It would be necessary to link the code to the the datafile of the next election for analysis,
    and the code would need some slight adjusting if the new election data file is not stored in the exact same format (ballot id, county, candidate). 
-   Additionally, in order to use this script for a broader, country-wide election, there would be the need to change logic to pull data at the state level.  
+   Additionally, in order to use this script for a broader, country-wide election, there would be the need to change logic to pull data at the state level.
+   
+   Examples of code that would require modification to utilize in other elections: 
+   
+   ![CodeSnip](https://user-images.githubusercontent.com/71041680/109441039-27221380-7a02-11eb-8519-19ee023a48eb.png)
+
+   ![CodeSnip2](https://user-images.githubusercontent.com/71041680/109441108-59337580-7a02-11eb-9a8a-54d9764c97b7.png)
+
